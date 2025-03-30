@@ -1,3 +1,9 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudSElsebaey&color=blue)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AFF00&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+---
+
 ### Hi there, I'm Mahmoud Elsebaey 👋
 
 I'm a **Front-End Developer** passionate about building responsive, user-friendly web applications using modern technologies.
@@ -42,11 +48,5 @@ I'm a **Front-End Developer** passionate about building responsive, user-friendl
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudelsebaey710@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201207247967)
 
----
-
-###
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AFF00&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+ 
+ 
