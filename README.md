@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Mahmoud Elsebaey 👋
 
 I'm a **Front-End Developer** passionate about building responsive, user-friendly web applications using modern technologies.
 
@@ -6,8 +6,8 @@ I'm a **Front-End Developer** passionate about building responsive, user-friendl
 
 ### 🚀 About Me
 - 🎓 Computer Science graduate from Menoufia University (Class of 2023)
-- 💻 Experienced in **React.js, Next.js, JavaScript, and MongoDB**
-- 🌟 Skilled in **HTML5, CSS3, Tailwind CSS, and Git**
+- 💻 Experienced in **React.js, Next.js, JavaScript, and TypeScript**
+- 🌟 Skilled in **HTML5, CSS3, Bootstrap5, Tailwind CSS, and Git**
 - 🏗️ Currently working as a **Freelancer & Front-End Developer**
 - 🎯 Constantly improving my skills and exploring new technologies
 
